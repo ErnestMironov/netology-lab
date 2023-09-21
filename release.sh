@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Сначала переключаемся на ветку prd
-git checkout prd
+git checkout prod
 
 # Затем сливаем изменения из ветки dev
 git merge dev
